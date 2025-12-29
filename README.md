@@ -6,3 +6,5 @@ A unique Macropad design using a custom pcb.
 https://cad.onshape.com/documents/7962e6bb895646f2be96a6e3/w/671534a5f4f1b177a72606a8/e/173c91f44aebb61f4a08a39c?renderMode=0&uiState=694f1dfbde2ab43e5c5a08cd
 ![IMG_9681 (1)](https://github.com/user-attachments/assets/6f792251-9004-4915-98b1-d93e059f7927)
 ![IMG_9680](https://github.com/user-attachments/assets/ca3f233a-9611-4c4c-a027-4dab54a5ddeb)
+<img width="1598" height="768" alt="image" src="https://github.com/user-attachments/assets/f285f617-a8be-44d0-9f04-aad0d1b2cc7b" />
+
